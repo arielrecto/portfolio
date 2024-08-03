@@ -1,15 +1,15 @@
 {
     "contacts" : [
         {
-            "icon" : "/email.gif",
+            "icon" : "/portfolio/email.gif",
             "address" : " arielrecto29@gmail.com"
         },
         {
-            "icon" : "/phone-contact.gif",
+            "icon" : "/portfolio/phone-contact.gif",
             "address" : "09100488568"
         },
         {
-            "icon" : "/location.gif",
+            "icon" : "/portfolio/location.gif",
             "address" : "Rebecca Zone 2,  Almanza Dos Las Pinas City"
         }
     ]

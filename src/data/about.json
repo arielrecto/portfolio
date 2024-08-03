@@ -3,7 +3,7 @@
         "name" : "ariel recto",
         "role" : "full-stack web developer",
         "description" : "I graduated with a Bachelor of Science in Information Technology (BSIT) in 2024. I possess skills in programming across various languages and frameworks, with a strong focus on web development and mobile development. My experience includes working with technologies like Dotnet 8, React.js, and Laravel, as well as a solid foundation in networking and database management. I am passionate about leveraging technology to solve complex problems and am dedicated to continuously improving my skills in the ever-evolving IT landscape.",
-        "image" : "/img.jpg",
+        "image" : "/portfolio/img.jpg",
         "education" : [
             {
                 "course" : "Bachelor Science of Information Technology",

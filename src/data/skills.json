@@ -2,51 +2,51 @@
     "skills" : [
         {
             "name" : "HTML",
-            "image_url" : "/html.png"
+            "image_url" : "/portfolio/html.png"
         },
         {
             "name" : "CSS",
-            "image_url" : "/css-3.png"
+            "image_url" : "/portfolio/css-3.png"
         },
         {
             "name" : "Javascript",
-            "image_url" : "/js.png"
+            "image_url" : "/portfolio/js.png"
         },
         {
             "name" : "Git Control",
-            "image_url" : "/git.png"
+            "image_url" : "/portfolio/git.png"
         },
         {
             "name" : "Laravel",
-            "image_url" : "/laravel.png"
+            "image_url" : "/portfolio/laravel.png"
         },
         {
             "name" : "PHP",
-            "image_url" : "/php.png"
+            "image_url" : "/portfolio/php.png"
         },
         {
             "name" : "Tailwind CSS",
-            "image_url" : "/Tailwind.png"
+            "image_url" : "/portfolio/Tailwind.png"
         },
         {
             "name" : "Vue",
-            "image_url" : "/vue.png"
+            "image_url" : "/portfolio/vue.png"
         },
         {
             "name" : "React Js",
-            "image_url" : "/react.png"
+            "image_url" : "/portfolio/react.png"
         },
         {
             "name" : "React Native",
-            "image_url" : "/react.png"
+            "image_url" : "/portfolio/react.png"
         },
         {
             "name" : "Python",
-            "image_url" : "/python.png"
+            "image_url" : "/portfolio/python.png"
         },
         {
             "name" : "Django",
-            "image_url" : "/django.png"
+            "image_url" : "/portfolio/django.png"
         }
     ]
 }

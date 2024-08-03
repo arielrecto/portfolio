@@ -10,28 +10,28 @@
             ],
             "description" : "",
             "images" : [
-                "/overshot/0.png"
+                "/portfolio/overshot/0.png"
             ],
             "stacks" : [
                 {
                     "name" : "laravel",
-                    "icon" : "/laravel.png"
+                    "icon" : "/portfolio/laravel.png"
                 },
                 {
                     "name" : "vue js",
-                    "icon" : "/vue.png"
+                    "icon" : "/portfolio/vue.png"
                 },
                 {
                     "name" : "tailwindcss",
-                    "icon" : "/Tailwind.png"
+                    "icon" : "/portfolio/Tailwind.png"
                 },
                 {
                     "name" : "html",
-                    "icon" : "/html.png"
+                    "icon" : "/portfolio/html.png"
                 },
                 {
                     "name" : "javascript",
-                    "icon" : "/js.png"
+                    "icon" : "/portfolio/js.png"
                 }
             ]
         },
@@ -43,24 +43,24 @@
             ],
             "description" : "",
             "images" : [
-                "/fiftea/0.png"
+                "/portfolio/fiftea/0.png"
             ],
             "stacks" : [
                 {
                     "name" : "laravel",
-                    "icon" : "/laravel.png"
+                    "icon" : "/portfolio/laravel.png"
                 },
                 {
                     "name" : "tailwindcss",
-                    "icon" : "/Tailwind.png"
+                    "icon" : "/portfolio/Tailwind.png"
                 },
                 {
                     "name" : "html",
-                    "icon" : "/html.png"
+                    "icon" : "/portfolio/html.png"
                 },
                 {
                     "name" : "javascript",
-                    "icon" : "/js.png"
+                    "icon" : "/portfolio/js.png"
                 }
             ]
         },
@@ -75,24 +75,24 @@
             ],
             "description" : "",
             "images" : [
-                "/manuela/0.png"
+                "/portfolio/manuela/0.png"
             ],
             "stacks" : [
                 {
                     "name" : "laravel",
-                    "icon" : "/laravel.png"
+                    "icon" : "/portfolio/laravel.png"
                 },
                 {
                     "name" : "tailwindcss",
-                    "icon" : "/Tailwind.png"
+                    "icon" : "/portfolio/Tailwind.png"
                 },
                 {
                     "name" : "html",
-                    "icon" : "/html.png"
+                    "icon" : "/portfolio/html.png"
                 },
                 {
                     "name" : "javascript",
-                    "icon" : "/js.png"
+                    "icon" : "/portfolio/js.png"
                 }
             ]
         },
@@ -105,24 +105,24 @@
             ],
             "description" : "",
             "images" : [
-                "/doc-aid/0.png"
+                "/portfolio/doc-aid/0.png"
             ],
             "stacks" : [
                 {
                     "name" : "laravel",
-                    "icon" : "/laravel.png"
+                    "icon" : "/portfolio/laravel.png"
                 },
                 {
                     "name" : "tailwindcss",
-                    "icon" : "/Tailwind.png"
+                    "icon" : "/portfolio/Tailwind.png"
                 },
                 {
                     "name" : "html",
-                    "icon" : "/html.png"
+                    "icon" : "/portfolio/html.png"
                 },
                 {
                     "name" : "javascript",
-                    "icon" : "/js.png"
+                    "icon" : "/portfolio/js.png"
                 }
             ]
         },
@@ -136,24 +136,24 @@
             ],
             "description" : "",
             "images" : [
-                "/csvu-scheduling/0.png"
+                "/portfolio/csvu-scheduling/0.png"
             ],
             "stacks" : [
                 {
                     "name" : "laravel",
-                    "icon" : "/laravel.png"
+                    "icon" : "/portfolio/laravel.png"
                 },
                 {
                     "name" : "tailwindcss",
-                    "icon" : "/Tailwind.png"
+                    "icon" : "/portfolio/Tailwind.png"
                 },
                 {
                     "name" : "html",
-                    "icon" : "/html.png"
+                    "icon" : "/portfolio/html.png"
                 },
                 {
                     "name" : "javascript",
-                    "icon" : "/js.png"
+                    "icon" : "/portfolio/js.png"
                 }
             ]
         },
@@ -165,28 +165,28 @@
             ],
             "description" : "",
             "images" : [
-                "/p-connect/0.png"
+                "/portfolio/p-connect/0.png"
             ],
             "stacks" : [
                 {
                     "name" : "python",
-                    "icon" : "/python.png"
+                    "icon" : "/portfolio/python.png"
                 },
                 {
                     "name" : "tailwindcss",
-                    "icon" : "/Tailwind.png"
+                    "icon" : "/portfolio/Tailwind.png"
                 },
                 {
                     "name" : "html",
-                    "icon" : "/html.png"
+                    "icon" : "/portfolio/html.png"
                 },
                 {
                     "name" : "javascript",
-                    "icon" : "/js.png"
+                    "icon" : "/portfolio/js.png"
                 },
                 {
                     "name" : "django",
-                    "icon" : "/django.png"
+                    "icon" : "/portfolio/django.png"
                 }
             ]
         }

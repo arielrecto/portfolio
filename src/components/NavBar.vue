@@ -9,7 +9,7 @@ const isShow = ref(false)
 
 
 <template>
-    <nav class="w-full lg:flex justify-center sticky top-0 bg-gradient-to-r from-m-primary to-m-secondary z-20 hidden">
+    <nav class=" w-full lg:flex justify-center fixed top-0 bg-gradient-to-r from-m-primary to-m-secondary z-20 hidden">
         <div class="w-5/6 flex items-center justify-between py-2">
             <div class="flex items-center space-x-5">
                 <img src="@/assets/logo.ico" alt="" srcset="" class="w-10 aspect-square rounded-full">
