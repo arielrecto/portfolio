@@ -1,0 +1,36 @@
+{
+    "dataTwo" : [
+        {
+            "name" : "projects",
+            "total" : "4",
+            "sticker" : "/project.gif"
+        },
+        {
+            "name" : "clients",
+            "total" : "4",
+            "sticker" : "/happy.gif"
+        },
+        {
+            "name" : "support",
+            "total" : "24/7",
+            "sticker" : "/support.gif"
+        }
+    ],
+    "dataThree" : [
+        {
+            "name" : "Android Development",
+            "sticker" : "/android.gif",
+            "description" : "I am utilizing React Native to create mobile applications, and Laravel for the backend. Token-based authentication is being handled by Sanctum, along with additional libraries, to create a functional and practical solution that meets the needs of the customer."
+        },
+        {
+            "name" : "Web Development",
+            "sticker" : "/coding.gif",
+            "description" : "Depending on the needs of the customer, I can use a variety of frameworks in different programming languages when developing websites, however for quick development, I typically utilize the Laravel framework. I've worked with asp.net and django as full-stack web frameworks; for the front end, I utilized vue js and react js."
+        },
+        {
+            "name" : "Project management",
+            "sticker" : "/management.gif",
+            "description" : "I am able to oversee a project, communicate with the client about what is ideal for their project, and then manage my team to complete tasks by the deadline and complete the project to the best of the client's specifications."
+        }
+    ]
+}

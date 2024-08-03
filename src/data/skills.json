@@ -1,0 +1,52 @@
+{
+    "skills" : [
+        {
+            "name" : "HTML",
+            "image_url" : "/html.png"
+        },
+        {
+            "name" : "CSS",
+            "image_url" : "/css-3.png"
+        },
+        {
+            "name" : "Javascript",
+            "image_url" : "/js.png"
+        },
+        {
+            "name" : "Git Control",
+            "image_url" : "/git.png"
+        },
+        {
+            "name" : "Laravel",
+            "image_url" : "/laravel.png"
+        },
+        {
+            "name" : "PHP",
+            "image_url" : "/php.png"
+        },
+        {
+            "name" : "Tailwind CSS",
+            "image_url" : "/Tailwind.png"
+        },
+        {
+            "name" : "Vue",
+            "image_url" : "/vue.png"
+        },
+        {
+            "name" : "React Js",
+            "image_url" : "/react.png"
+        },
+        {
+            "name" : "React Native",
+            "image_url" : "/react.png"
+        },
+        {
+            "name" : "Python",
+            "image_url" : "/python.png"
+        },
+        {
+            "name" : "Django",
+            "image_url" : "/django.png"
+        }
+    ]
+}
